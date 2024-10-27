@@ -1,6 +1,6 @@
 package Jsend.jsend.response
 
-class SuccessResponse {
+class FailResponse {
     var status: String? = null
     var data: Any? = null
 }
